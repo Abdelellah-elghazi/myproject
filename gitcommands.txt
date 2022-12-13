@@ -1,0 +1,7 @@
+  
+cd Desktop
+git clone https://github.com/Abdelellah-elghazi/myproject.git 
+git add .
+git status
+git commit -m "add some text"
+git push
